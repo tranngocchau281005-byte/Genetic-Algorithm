@@ -13,7 +13,7 @@ This project was completed as part of the **Quantitative Finance** course. It ap
 - Arithmetic Crossover
 - Mutation
 - Genetic Algorithm Optimization
-## Technologies
+## Tools
 
 - Python
 - NumPy

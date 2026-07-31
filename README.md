@@ -22,4 +22,4 @@ This project was completed as part of the **Quantitative Finance** course. It ap
 - SciPy
 
 ## Report
-[View HTML Report] 
+[View HTML Report] https://tranngocchau281005-byte.github.io/Genetic-Algorithm/

@@ -1,4 +1,4 @@
-# Portfolio-Optimization-Using-Genetic-Algorithm
+# Portfolio Optimization Using Genetic Algorithm
 ## Overview
 
 This project was completed as part of the **Quantitative Finance** course. It applies a **Genetic Algorithm (GA)** to optimize a portfolio of **five Vietnamese stocks (BMP, CTG, GAS, SSI, and VND)** by maximizing the **Sharpe Ratio** under predefined return and risk constraints.

@@ -5,12 +5,7 @@ This project was completed as part of the **Quantitative Finance** course. It ap
 
 ## Methodology
 
-- Expected Return and Covariance Matrix Estimation
-- Portfolio Performance Evaluation
-
-
-
-- Monthly Log Return Calculation
+- Expected Return and Covariance Estimation
 - Portfolio Chromosome Encoding
 - Population Initialization
 - Fitness Function (Sharpe Ratio)

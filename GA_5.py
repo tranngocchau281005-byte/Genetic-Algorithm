@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 28 23:43:29 2025
-
-@author: Chau
-"""
 
 # Import các thư viện cần thiết
 import numpy as np

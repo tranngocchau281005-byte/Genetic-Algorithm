@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import datetime as dt # làm việc với dữ liệu ngày-giờ
 from scipy.stats import norm # phân phối chuẩn dùng trong mô hình thống kê
 
-t = 'C:/Users/Chau/OneDrive - THPT Nguyễn Công Trứ/Attachments/TC định lượng/ds_hose23112025.csv'
+t = 'path to your dataset.csv'
 dm1 = pd.read_csv(t)
 
 dm1['time'] = pd.to_datetime(dm1['time'])
